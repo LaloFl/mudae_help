@@ -1,1 +1,1 @@
-# Mudae bot with PyWinAuto
+# Mudae bot with PyAutoGUI
